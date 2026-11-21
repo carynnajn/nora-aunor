@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Biography
 layout: data
 permalink: /data.html
 # see _data/config-table.csv for table display options
